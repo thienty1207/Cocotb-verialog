@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1742434801" />
+    <testcase name="test_and_gate" classname="test_counter" file="/home/thienty/Python/test_counter.py" lineno="4" time="0.0009045600891113281" sim_time_ns="40.001" ratio_time="44221.49559936742" />
+  </testsuite>
+</testsuites>
